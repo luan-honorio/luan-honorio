@@ -31,10 +31,10 @@ I'm currently focused on improving my development with c-sharp <br>
   <a href="https://github.com/luan-honorio">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luan-honorio&theme=transparent" />
   </a>
-  <a href="https://github.com/kevinLyf">
+  <a href="https://github.com/luan-honorio">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=luan-honorio&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/kevinLyf">
+  <a href="https://github.com/luan-honorio">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luan-honorio&theme=transparent" />
   </a>
 </p>
