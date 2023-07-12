@@ -4,6 +4,7 @@
     <b>Welcome to my Github!</b><br><br>
     <i>
         I'm Luan.<br>
+        full stack debeloper<br><br>     
 I'm currently focused on improving my development with c-sharp <br>
       to participate in wordskills Brazil, national selective<br>
     </i><br>
@@ -13,10 +14,11 @@ I'm currently focused on improving my development with c-sharp <br>
 
 [![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/luan-honorio) 
 ![Javascript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![html](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS-black?&style=for-the-badge&logo=css3&logoColor=white)
+
 
 ### Technologies & Frameworks
+![html](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-black?&style=for-the-badge&logo=css3&logoColor=white)
 ![.net](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node-black?style=for-the-badge&logo=Node.js)
 ![react](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB)
