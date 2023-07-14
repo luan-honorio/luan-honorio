@@ -6,8 +6,11 @@
         I'm Luan.<br>
         full stack debeloper<br><br>     
 I'm currently focused on improving my development with c-sharp <br>
-      to participate in wordskills Brazil, national selective<br>
+      to participate in wordskills Brazil, national selective <br>
+        🌐📱💻
+<br>
     </i><br>
+    
    
 
 ### Languages
@@ -27,6 +30,8 @@ I'm currently focused on improving my development with c-sharp <br>
 ![ mysql](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
 ![xamarin](https://img.shields.io/badge/Xamarin-black?style=for-the-badge&logo=xamarin&logoColor=white)
 ![Windows Forms](https://img.shields.io/badge/Windows_Forms-black?style=for-the-badge&logo=windows&logoColor=white)
+
+
 
 <details>
 <p align="center">
