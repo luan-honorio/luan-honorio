@@ -26,6 +26,8 @@ I'm currently focused on improving my development with c-sharp <br>
 ![.net](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net&logoColor=purple)
 ![NodeJS](https://img.shields.io/badge/node-black?style=for-the-badge&logo=Node.js&logoColor=green)
 [![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=red)](https://angular.io/)
+[![NestJS](https://img.shields.io/badge/NestJS-black?style=for-the-badge&logo=nestjs)](https://nestjs.com/)
+[![TypeORM](https://img.shields.io/badge/TypeORM-black?style=for-the-badge&logo=typeorm)](https://typeorm.io/)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=purple)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-black?style=for-the-badge&logo=microsoft-sql-server&logoColor=red)
 ![ mysql](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=blue)
