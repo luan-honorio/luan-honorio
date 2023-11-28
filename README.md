@@ -4,7 +4,7 @@
     <b>Welcome to my Github!</b><br><br>
     <i>
         I'm Luan.<br>
-        full stack developer<br><br>     
+        web developer<br><br>     
 I'm currently focused on improving my development with c-sharp <br>
       to participate in wordskills Brazil, national selective <br>
         🌐📱💻
